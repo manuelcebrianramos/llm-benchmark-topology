@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+scikit-learn
+scipy
+tqdm
+requests
+feedparser
+arxiv
+rapidfuzz
+powerlaw
+numba
+geopandas
+geodatasets
+mapclassify

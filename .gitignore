@@ -1,0 +1,12 @@
+pycache/
+.py[cod]
+.venv/
+.env
+.env.
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+*.parquet
+*.feather
+*.sqlite
+*.db
